@@ -1,0 +1,22 @@
+{
+    "name": "atom-dark-roast",
+    "displayName": "atom_dark_roast",
+    "description": "atom imported theme",
+    "version": "0.0.1",
+    "publisher": "jakobbeckmann",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom Dark Roast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atom Dark Roast-color-theme.json"
+            }
+        ]
+    }
+}
